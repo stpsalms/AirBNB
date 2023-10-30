@@ -37,6 +37,8 @@ lng(longitude value ) lat(latitude value ) guest satisfaction overall () Cleanli
 
 
 Project Description
+
+
 The dataset has weekday and weekend files for different cities 
 Here is the data and description for the ArBnB project in PowerBI. The way we should proceed with this project is to first create a table in SQL, and load the data into the SQL table. Then proceed to connect your SQL data tables with PowerBI for analysis and visualization.
 The dataset has weekday and weekend files for different cities. So you should have two tables, one for weekdays and the other for weekends. Load all the weekday files into the weekday table, and mark which data is for which country. Do the same for the weekend. Then create a single view that will merge the weekday and weekend tables into one Table. In this view, make sure to have a column that specifies if a row is from the weekend or weekday file. This single view is what should load into PowerBi for your analysis.
