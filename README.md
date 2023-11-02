@@ -3,11 +3,8 @@ https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-in-europ
 
 This dataset contains Airbnb rental data for European cities, including characteristics and their effects on price. The dataset includes several features such as the total price of the listing, room type, host status (superhost or not), amenities, and location information which can be used to analyze the factors that affect Airbnb prices. This data can help travelers find an accommodation that satisfies their needs without spending more than necessary. It can also provide business owners valuable insights on how to set competitive prices and optimize their listings for increased bookings. Furthermore, this data is useful for property investors who want to understand pricing trends in different cities across Europe and make informed decisions about investing in real estate
 
-More Datasets
-For more datasets, click here.
 
-Featured Notebooks
-🚨 Your notebook can be here! 🚨!
+
 How to use the dataset
 This dataset contains Airbnb rental data for multiple European cities, including price, room type, host status, amenities and location information. This data can be used to better understand the factors that influence Airbnb rental prices in Europe.
 
@@ -28,7 +25,12 @@ multi (whether it’s for multiple rooms or not)
 biz(whether it’s for business use or family use )                                 .                                                               
 dist(the distance from city center )
 metro dist (the distance from nearest metro station )                             
-lng(longitude value ) lat(latitude value ) guest satisfaction overall () Cleanliness rating () Bedrooms () and Real sum -Total Price.
+lng(longitude value ) 
+lat(latitude value ) 
+guest satisfaction overall () 
+Cleanliness rating () 
+Bedrooms () and 
+Real sum -Total Price.
 
 
 
